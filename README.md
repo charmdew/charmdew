@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=160&section=header&text=Ryu%20Jeong%20Min&fontSize=70&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=140&section=header&text=Jeongmin%20Ryu&fontSize=70&fontColor=000000)
 
 <h3 align="center">👋 Hi, there 👋</h3>
 
