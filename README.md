@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=140&section=header&text=Jeongmin%20Ryu&fontSize=70&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=140&section=header&text=Jeongmin%20Ryu&fontSize=70&fontColor=ffffff)
 
 <h3 align="center">👋 Hi, there 👋</h3>
 
@@ -6,7 +6,7 @@
 
 <div align=center> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
