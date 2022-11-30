@@ -27,7 +27,7 @@
 <!-- <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3> -->
 <div align=center> 
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charmdew&show_icons=true&theme=apprentice)
+![Jeongmin Ryu's github stats](https://github-readme-stats.vercel.app/api?username=charmdew&show_icons=true&theme=apprentice)
 
 </div>
 <br/>
